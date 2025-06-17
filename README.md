@@ -1,3 +1,5 @@
+<img src="main_banner.webp">
+
 # 💫 About Me
 - 🔭 I’m currently working on... nothing, sometimes something, but mostly nothing. 
 - 🌱 I’m currently learning various toolsets in python, linux, and anything that makes me go "cool!"
