@@ -1,4 +1,4 @@
-# About Me
+# 💫 About Me
 - 🔭 I’m currently working on... nothing, sometimes something, but mostly nothing. 
 - 🌱 I’m currently learning various toolsets in python, linux, and anything that makes me go "cool!"
 - 👯 I’m looking to collaborate on various projects in the finace or fintech space.
