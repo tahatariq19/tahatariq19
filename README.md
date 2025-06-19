@@ -1,4 +1,4 @@
-<img src="main_banner.webp">
+<img src="main_banner.png">
 
 # 💫 About Me
 - 🔭 I’m currently working on... nothing, sometimes something, but mostly nothing. 
